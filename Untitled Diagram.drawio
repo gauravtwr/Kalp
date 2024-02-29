@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T09:02:45.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WFEi7OCmo-V3LG2ZUX2K" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T10:53:30.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5MmFH5m7eyqIUoxxwkoD" version="23.1.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="913" dy="1660" grid="1" gridSize="50" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -13,14 +13,17 @@
         <mxCell id="fyMuKusYpWriWorXmbX_-168" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fyMuKusYpWriWorXmbX_-184" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="fyMuKusYpWriWorXmbX_-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5" value="KALP Blockchain" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fontSize=14;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355.13" y="302" width="201.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;Network Governance Layer&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Authentication&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Enrollment&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Certificate Generation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Private Key&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Public Key&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Storage of&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Private Key &amp;amp; Public Key&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="206.5" y="396" width="200" height="154" as="geometry" />
+        <mxCell id="6" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;Network Governance Layer&lt;/strong&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="206.5" y="421" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Kalp Explorer&amp;nbsp;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="400.88" y="192.5" width="110" height="65" as="geometry" />
+          <mxGeometry x="537.25" y="190.5" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;New System&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Design&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="550.25" y="800" width="110" height="90" as="geometry" />
@@ -28,11 +31,11 @@
         <mxCell id="10" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 6&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;New&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Construction&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="198.74999999999991" y="800" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-170" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="fyMuKusYpWriWorXmbX_-139">
+        <mxCell id="fyMuKusYpWriWorXmbX_-181" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Conjurer " style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="401.5" y="112.00000000000003" width="90" height="60" as="geometry" />
+          <mxGeometry x="234.25" y="292" width="98.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="363.75000000000006" y="940" width="90" height="60" as="geometry" />
@@ -71,54 +74,19 @@
         <mxCell id="fyMuKusYpWriWorXmbX_-136" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Kalp Insights&amp;nbsp;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="627.88" y="352" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-141" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-139" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="327" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fyMuKusYpWriWorXmbX_-139" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Kalp Compiler&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="550.25" y="117" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-145" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="58.880000000000116" y="100" as="sourcePoint" />
-            <mxPoint x="591.63" y="502" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="22" />
-              <mxPoint x="22" y="50" />
-              <mxPoint x="21.38" y="100" />
-              <mxPoint x="21.63" y="184" />
-              <mxPoint x="21.63" y="284" />
-              <mxPoint x="21.63" y="334" />
-              <mxPoint x="21.63" y="584" />
-              <mxPoint x="371.63" y="584" />
-              <mxPoint x="591.38" y="584" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-148" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-147" target="fyMuKusYpWriWorXmbX_-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-147" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Network Admin&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="537.25" y="500" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-150" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Kalp Wallet&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Mai Pay&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;arcSize=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="635.13" y="-65" width="102.75" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fyMuKusYpWriWorXmbX_-155" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Project Creation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="234.25" y="33.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-167" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-157">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="142" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fyMuKusYpWriWorXmbX_-175" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-157" target="fyMuKusYpWriWorXmbX_-174">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fyMuKusYpWriWorXmbX_-157" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Smart Contract&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Development&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="234.25" y="111.5" width="110" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="fyMuKusYpWriWorXmbX_-169" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-158" target="8">
+        <mxCell id="fyMuKusYpWriWorXmbX_-180" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-158" target="12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fyMuKusYpWriWorXmbX_-158" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Smart Contract&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Deployment&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
@@ -153,6 +121,12 @@
             <mxPoint x="413" y="475" as="sourcePoint" />
             <mxPoint x="456.53649999999993" y="351.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fyMuKusYpWriWorXmbX_-183" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fyMuKusYpWriWorXmbX_-174" target="fyMuKusYpWriWorXmbX_-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fyMuKusYpWriWorXmbX_-174" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;Kalp SDK&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="111.5" width="98.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
